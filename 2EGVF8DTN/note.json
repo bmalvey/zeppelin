@@ -1,0 +1,68 @@
+{
+  "paragraphs": [
+    {
+      "text": "var i \u003d \"Hello world!\"",
+      "user": "admin",
+      "dateUpdated": "2019-07-10 10:40:44.750",
+      "config": {
+        "colWidth": 12.0,
+        "fontSize": 9.0,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "scala",
+          "editOnDblClick": false,
+          "completionKey": "TAB",
+          "completionSupport": true
+        },
+        "editorMode": "ace/mode/scala"
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "TEXT",
+            "data": "i: String \u003d Hello world!\n"
+          }
+        ]
+      },
+      "apps": [],
+      "jobName": "paragraph_1562769623004_-745682833",
+      "id": "20190710-104023_1617856933",
+      "dateCreated": "2019-07-10 10:40:23.005",
+      "dateStarted": "2019-07-10 10:40:44.786",
+      "dateFinished": "2019-07-10 10:41:15.193",
+      "status": "FINISHED",
+      "progressUpdateIntervalMs": 500
+    },
+    {
+      "user": "admin",
+      "config": {},
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "apps": [],
+      "jobName": "paragraph_1562769644755_84069590",
+      "id": "20190710-104044_469145981",
+      "dateCreated": "2019-07-10 10:40:44.755",
+      "status": "READY",
+      "progressUpdateIntervalMs": 500
+    }
+  ],
+  "name": "New Note Test 2",
+  "id": "2EGVF8DTN",
+  "noteParams": {},
+  "noteForms": {},
+  "angularObjects": {
+    "spark:shared_process": []
+  },
+  "config": {
+    "isZeppelinNotebookCronEnable": false
+  },
+  "info": {}
+}
