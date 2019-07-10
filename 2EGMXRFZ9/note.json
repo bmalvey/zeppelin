@@ -1,0 +1,68 @@
+{
+  "paragraphs": [
+    {
+      "text": "var i \u003d 1",
+      "user": "admin",
+      "dateUpdated": "2019-07-10 08:51:36.932",
+      "config": {
+        "colWidth": 12.0,
+        "fontSize": 9.0,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "scala",
+          "editOnDblClick": false,
+          "completionKey": "TAB",
+          "completionSupport": true
+        },
+        "editorMode": "ace/mode/scala"
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "TEXT",
+            "data": "i: Int \u003d 1\n"
+          }
+        ]
+      },
+      "apps": [],
+      "jobName": "paragraph_1562763086140_-561188101",
+      "id": "20190710-085126_1140267993",
+      "dateCreated": "2019-07-10 08:51:26.140",
+      "dateStarted": "2019-07-10 08:51:36.996",
+      "dateFinished": "2019-07-10 08:52:07.733",
+      "status": "FINISHED",
+      "progressUpdateIntervalMs": 500
+    },
+    {
+      "user": "admin",
+      "config": {},
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "apps": [],
+      "jobName": "paragraph_1562763096936_-20505847",
+      "id": "20190710-085136_107133688",
+      "dateCreated": "2019-07-10 08:51:36.936",
+      "status": "READY",
+      "progressUpdateIntervalMs": 500
+    }
+  ],
+  "name": "Test Git",
+  "id": "2EGMXRFZ9",
+  "noteParams": {},
+  "noteForms": {},
+  "angularObjects": {
+    "spark:shared_process": []
+  },
+  "config": {
+    "isZeppelinNotebookCronEnable": false
+  },
+  "info": {}
+}
