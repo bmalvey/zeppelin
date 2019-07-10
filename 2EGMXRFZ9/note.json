@@ -40,6 +40,45 @@
       "progressUpdateIntervalMs": 500
     },
     {
+      "text": "i \u003d\u003d 1",
+      "user": "admin",
+      "dateUpdated": "2019-07-10 08:53:06.524",
+      "config": {
+        "colWidth": 12.0,
+        "fontSize": 9.0,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "scala",
+          "editOnDblClick": false,
+          "completionKey": "TAB",
+          "completionSupport": true
+        },
+        "editorMode": "ace/mode/scala"
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "TEXT",
+            "data": "res1: Boolean \u003d true\n"
+          }
+        ]
+      },
+      "apps": [],
+      "jobName": "paragraph_1562763096936_-20505847",
+      "id": "20190710-085136_107133688",
+      "dateCreated": "2019-07-10 08:51:36.936",
+      "dateStarted": "2019-07-10 08:53:06.557",
+      "dateFinished": "2019-07-10 08:53:06.777",
+      "status": "FINISHED",
+      "progressUpdateIntervalMs": 500
+    },
+    {
       "user": "admin",
       "config": {},
       "settings": {
@@ -47,9 +86,9 @@
         "forms": {}
       },
       "apps": [],
-      "jobName": "paragraph_1562763096936_-20505847",
-      "id": "20190710-085136_107133688",
-      "dateCreated": "2019-07-10 08:51:36.936",
+      "jobName": "paragraph_1562763186524_-1323630040",
+      "id": "20190710-085306_1194277522",
+      "dateCreated": "2019-07-10 08:53:06.524",
       "status": "READY",
       "progressUpdateIntervalMs": 500
     }
